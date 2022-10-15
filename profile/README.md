@@ -1,6 +1,6 @@
 # Booksquare
 A platform for students to buy and sell books
 
-build available at: booksquare.vercel.app
+build available at: https://booksquare.vercel.app
 
-create with nextjs, firebase
+created with nextjs, firebase
