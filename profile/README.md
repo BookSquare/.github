@@ -4,4 +4,4 @@ Comes with a built-in chatting system and profile customization
 
 build available at: https://booksquare.vercel.app
 
-created with nextjs, firebase, bootstrap
+created with nextjs, firebase
